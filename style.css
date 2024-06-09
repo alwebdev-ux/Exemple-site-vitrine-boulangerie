@@ -334,7 +334,7 @@ h3 {
 @media only screen and (max-width: 1100px) {
   button {
     display: flex;
-
+    color: black;
   }
 
   .icon-menu {
